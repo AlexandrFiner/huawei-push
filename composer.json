@@ -5,7 +5,7 @@
     "require": {
         "php": "^8.0",
         "guzzlehttp/guzzle": "^6.5.5|^7.0.1",
-        "illuminate/collections": "^10",
+        "illuminate/collections": "^10|^11|^12",
         "ext-json": "*"
     },
     "require-dev": {
